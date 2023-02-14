@@ -145,6 +145,6 @@ cython_debug/
 #credentials
 service_account.json
 
-#**/migrations/*
+**/migrations/*
 
 /logging/*
